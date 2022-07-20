@@ -1,0 +1,17 @@
+### PDFxStream v3 license file
+### Please refer to PDFxStream's technical documentation at
+### https://www.snowtide.com/help for details on how to register this
+### file with your copy of the PDFxStream library.
+###
+### 'Quick Start' instructions:
+### - PDFxStream for Java: place this file at the top level of your application's classpath
+### - PDFxStream.NET: place this file in the same directory as your application
+### - Fallback: use com.snowtide.PDF.loadLicense("path/to/pdfxstream.license")
+###   to explicitly load a license file from an arbitrary path
+name=w.kasun@directfn.com (DirectFN)
+type=Evaluation
+product=PDFxStream v3
+order_number=N/A
+expiration_dt=D:20220327
+features=All
+key=f3c6d9fbaede858fd0fcd026455ef246

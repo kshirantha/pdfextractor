@@ -1,0 +1,104 @@
+
+RCLGI023
+Kuwait Clearing Company
+Money Obligations - Broker
+Print Date: 15/03/2021 14.33.13
+Business Date: 15/03/2021
+Broker: ﺔﻴﻟﺎﻤﻟﺍ ﺔﻃﺎﺳﻮﻠﻟ ﻚﻴﻔﻛ ﺔﻛﺮﺷ - 9 Trader ID: 10378 Trader Name: ﻲﺟﺎﻧ ﻦﺑ ﻞﻴﻠﺧ ﻒﻴﻄﻠﻟﺍﺪﺒﻋ ﺮﻫﺎﻣ Market  :  Normal
+Settlement for 16/03/2021 Settlement for 17/03/2021 Settlement for 18/03/2021
+Available balance
+Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation
+-1.995 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 88,310.000 59,356.000 154.201 -29,108.201
+Page 1 of 8
+RCLGI023
+
+RCLGI023
+Kuwait Clearing Company
+Money Obligations - Broker
+Print Date: 15/03/2021 14.33.13
+Business Date: 15/03/2021
+Broker: ﺔﻴﻟﺎﻤﻟﺍ ﺔﻃﺎﺳﻮﻠﻟ ﻚﻴﻔﻛ ﺔﻛﺮﺷ - 9 Trader ID: 10380 Trader Name: ﺡﺎﺒﺴﻤﻟﺍ ﺪﻤﺤﻣ ﻢﺳﺎﺟ ﻥﺎﻤﻌﻧ Market  :  Normal
+Settlement for 16/03/2021 Settlement for 17/03/2021 Settlement for 18/03/2021
+Available balance
+Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation
+7,237.556 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 23,100.000 9,790.000 46.940 -13,356.940
+Page 2 of 8
+RCLGI023
+
+RCLGI023
+Kuwait Clearing Company
+Money Obligations - Broker
+Print Date: 15/03/2021 14.33.13
+Business Date: 15/03/2021
+Broker: ﺔﻴﻟﺎﻤﻟﺍ ﺔﻃﺎﺳﻮﻠﻟ ﻚﻴﻔﻛ ﺔﻛﺮﺷ - 9 Trader ID: 16592 Trader Name: ﻰﻟﻮﻛﺎﻛ ﻦﺴﺣ ﻪﻠﻟﺍﺪﺒﻋ ﺎﺿﺮﻟﺍﺪﺒﻋ Market  :  Normal
+Settlement for 16/03/2021 Settlement for 17/03/2021 Settlement for 18/03/2021
+Available balance
+Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation
+25,073.474 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 57,446.000 77,775.000 140.256 20,188.744
+Page 3 of 8
+RCLGI023
+
+RCLGI023
+Kuwait Clearing Company
+Money Obligations - Broker
+Print Date: 15/03/2021 14.33.13
+Business Date: 15/03/2021
+Broker: ﺔﻴﻟﺎﻤﻟﺍ ﺔﻃﺎﺳﻮﻠﻟ ﻚﻴﻔﻛ ﺔﻛﺮﺷ - 9 Trader ID: 16700 Trader Name: ﻢﻴﻫﺍﺮﺑﺍ ﻞﻴﻋﺎﻤﺳﺍ ﻩﺰﻤﺣ ﺪﻤﺣﺍ Market  :  Normal
+Settlement for 16/03/2021 Settlement for 17/03/2021 Settlement for 18/03/2021
+Available balance
+Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation
+1,109.653 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 178,882.264 107,129.144 291.012 -72,044.132
+Page 4 of 8
+RCLGI023
+
+RCLGI023
+Kuwait Clearing Company
+Money Obligations - Broker
+Print Date: 15/03/2021 14.33.13
+Business Date: 15/03/2021
+Broker: ﺔﻴﻟﺎﻤﻟﺍ ﺔﻃﺎﺳﻮﻠﻟ ﻚﻴﻔﻛ ﺔﻛﺮﺷ - 9 Trader ID: 162171 Trader Name: ﻲﺿﻮﻌﻟﺍ ﺪﻤﺤﻣ ﺩﻮﻤﺤﻣ ﺭﻮﺼﻨﻣ Market  :  Normal
+Settlement for 16/03/2021 Settlement for 17/03/2021 Settlement for 18/03/2021
+Available balance
+Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation
+76,482.787 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 9,790.000 0.000 10.790 -9,800.790
+Page 5 of 8
+RCLGI023
+
+RCLGI023
+Kuwait Clearing Company
+Money Obligations - Broker
+Print Date: 15/03/2021 14.33.13
+Business Date: 15/03/2021
+Broker: ﺔﻴﻟﺎﻤﻟﺍ ﺔﻃﺎﺳﻮﻠﻟ ﻚﻴﻔﻛ ﺔﻛﺮﺷ - 9 Trader ID: 429804 Trader Name: ﻪﻌﻤﺟ ﺐﻴﺒﺣ ﻪﻔﻴﻠﺧ ﺰﻳﺰﻌﻟﺍﺪﺒﻋ Market  :  Normal
+Settlement for 16/03/2021 Settlement for 17/03/2021 Settlement for 18/03/2021
+Available balance
+Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation
+82,887.556 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 81,502.528 119,170.000 207.173 37,460.299
+Page 6 of 8
+RCLGI023
+
+RCLGI023
+Kuwait Clearing Company
+Money Obligations - Broker
+Print Date: 15/03/2021 14.33.13
+Business Date: 15/03/2021
+Broker: ﺔﻴﻟﺎﻤﻟﺍ ﺔﻃﺎﺳﻮﻠﻟ ﻚﻴﻔﻛ ﺔﻛﺮﺷ - 9 Trader ID: 955308 Trader Name: ﻲﻣﺯﺎﻌﻟﺍ ﻪﻴﻄﻋ ﺪﻤﺣ ﺪﻌﺳ Market  :  Normal
+Settlement for 16/03/2021 Settlement for 17/03/2021 Settlement for 18/03/2021
+Available balance
+Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation
+73.248 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 75,551.616 793,420.000 874.972 716,993.412
+Page 7 of 8
+RCLGI023
+
+RCLGI023
+Kuwait Clearing Company
+Money Obligations - Broker
+Print Date: 15/03/2021 14.33.13
+Business Date: 15/03/2021
+Broker: ﺔﻴﻟﺎﻤﻟﺍ ﺔﻃﺎﺳﻮﻠﻟ ﻚﻴﻔﻛ ﺔﻛﺮﺷ - 9 Trader ID: 1850115 Trader Name: ﻰﺳﻮﻤﻟﺍ ﺪﻤﺣﺍ ﺪﻌﺳ ﺀﺎﻔﻴﻫ Market  :  Normal
+Settlement for 16/03/2021 Settlement for 17/03/2021 Settlement for 18/03/2021
+Available balance
+Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation Deliver Receive Fees Net obligation
+35,156.539 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 107,520.000 49,550.000 161.570 -58,131.570
+Page 8 of 8
+RCLGI023
